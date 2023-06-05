@@ -1,0 +1,10 @@
+__pycache__
+sam_vit_h_4b8939.pth
+/sam_train_demo
+/sam_model
+/venv
+/output
+*/models
+*.un~
+*~
+*.swp
